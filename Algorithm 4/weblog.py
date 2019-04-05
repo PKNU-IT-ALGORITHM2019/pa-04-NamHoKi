@@ -13,7 +13,7 @@ def m_change(m):
         return 5
     elif m == 'Jun':
         return 6
-    elif m == 'July':
+    elif m == 'Jul':
         return 7
     elif m == 'Aug':
         return 8
