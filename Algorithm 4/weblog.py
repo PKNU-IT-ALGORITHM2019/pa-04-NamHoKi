@@ -42,11 +42,10 @@ def sort_time():
     global ip, time, url, status, check
     check = 1
 
-
 def sort_ip():
     global ip, time, url, status, check
     check = 2
-    print()
+
 
 def main():
     while True:
